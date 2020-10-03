@@ -118,6 +118,6 @@ Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
 
-Name: [vgatewoo](https://github.com/vgatewoo) <br/>
+Name: [vgatewood](https://github.com/vgatewoo) <br/>
 Place: Jacksonville <br/>
 About: newbie developer <br/>
